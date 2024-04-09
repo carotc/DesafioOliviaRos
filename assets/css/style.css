@@ -1,0 +1,22 @@
+header {
+  height: 120vh;
+  background-image: url("../img/bg-hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+#trabajos {
+
+  background: #17A2B8;
+}
+
+footer {
+  background: #000;
+}
+
+.card-img-top {
+   object-fit: cover;
+}
+
